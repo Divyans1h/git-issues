@@ -3,7 +3,7 @@ import os
 
 app = Flask(__name__)
 
-@app.route("/")
+@app.route("linux dev")
 def hello():
     return "updated Flask sample application on azure hghapp service updated verrsion-4"
 
