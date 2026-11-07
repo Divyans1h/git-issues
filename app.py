@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route("linux dev")
 def hello():
-    return "updated Flask sample application on azure hghapp service updated verrsion-4"
+    return "mac-user"
 
 
 if __name__ == "__main__":
