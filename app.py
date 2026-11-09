@@ -1,7 +1,7 @@
 from flask import Flask
 import os
 
-app = Flask(__name__v , linux dev change")
+d1 app = Flask(__name__v , linux dev change")
 
 @app.route("linux dev")
 def hello():
